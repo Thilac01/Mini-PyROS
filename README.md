@@ -38,7 +38,7 @@ Mini_PyROS/
 ├── mini_broker.py          # Central routing process
 ├── publisher.py            # Example publishing client
 ├── subscriber.py           # Example subscribing client
-└── MINI_PYROS_ARCHITECTURE.md
+└── README.md
 ```
 
 ## 4. Communication Protocol
